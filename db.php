@@ -1,6 +1,5 @@
 <?php
 
-$conexion=mysqli_connect("localhost","root","login");
+$conexion=mysqli_connect("localhost","root","claro");
 
 ?>
-<h1> conectado </h1>
